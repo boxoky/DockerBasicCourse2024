@@ -1,0 +1,3 @@
+## imagen hija
+FROM madre
+CMD ["bash"]

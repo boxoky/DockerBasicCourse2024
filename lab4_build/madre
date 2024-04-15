@@ -1,0 +1,3 @@
+## imagen madre
+FROM ubuntu:20.04
+CMD ["bash"]
