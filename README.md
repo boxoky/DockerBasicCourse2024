@@ -6,8 +6,7 @@
 ------------
 
 ## Contenido para el participante
-#### - Slides del curso
-
+#### - [Slides del curso](https://docs.google.com/presentation/d/1W_ollAg9hNYu4INN49JHklyNHxMt2fT5/edit?usp=sharing&ouid=103859002972110344283&rtpof=true&sd=true "Slides del curso")
 ------------
 
 ## Tabla de Contenido del Curso
